@@ -1,5 +1,6 @@
 <!-- markdownlint-disable MD028 MD033 MD045 -->
-
+Alex：Grub报错的时候，尝试输入这条指令
+# mkdir /boot/grub2 && grub-mkconfig -o /boot/grub2/grub.cfg
 # reinstall
 
 [![Codacy](https://img.shields.io/codacy/grade/dc679a17751448628fe6d8ac35e26eed?logo=Codacy&label=Codacy&style=flat-square)](https://app.codacy.com/gh/bin456789/reinstall/dashboard)
